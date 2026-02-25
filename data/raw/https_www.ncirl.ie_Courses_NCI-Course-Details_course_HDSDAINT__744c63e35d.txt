@@ -1,0 +1,96 @@
+Higher Diploma in Science in Data Analytics (International)
+Course Instance ID:
+1122334400
+Description:
+Higher Diploma in Science in Data Analytics (International)
+Duration:
+1 year
+NFQ Level:
+Level 8
+The overall goal of the Higher Diploma in Science in Data Analytics programme is to provide graduates with essential research and development skills in Data Analytics.
+It is envisaged that graduates from this programme will be well equipped to perform independent research that enables them to make informed and critical decisions regarding requirements elicitation and analysis, implementation, evaluation, and documentation in Data Analytics.
+How to Apply
+International students can apply for this course by selecting a start date below:
+January 2026
+If you have any queries, please contact our International Team by emailing
+international@ncirl.ie
+.
+Course details
+Course Description
+This programme seeks to produce graduates who are able to provide insight, gain value and discover knowledge (at an organisational, societal, or personal level) from data through exercising the skills that are developed through the programmes.
+Upon completion of this course, graduates will be able to:
+Develop statistical skills to carry out effective data analyses using descriptive and inferential statistics within a business context.
+Conduct substantial and extensive independent research and analysis in the field of Data Analytics.
+Formulate and implement a novel research idea using the latest industry practices.
+Demonstrate expert knowledge and a critical understanding of data analysis, statistics, and the tools, techniques and technologies of Data Analytics utilised in both technical and business contexts.
+Critically assess, evaluate and communicate business technical strategies for Data Analytics.
+Formulate, design, assess, and implement effective business technical solutions for Data Analytics.
+Critically assess and evaluate security, privacy, sustainability, and ethical issues associated with the storage, transfer, and processing of data for analytical purposes.
+The course will be delivered using academic research, industry-defined practical problems, and case studies. This approach will naturally foster a deeper knowledge of the subject area and create transferable skills for work such as critical thinking, problem-solving, creative thinking, communication, teamwork, and research skills. The course is completely delivered by faculty and industry practitioners with proven expertise in data analytics.
+Who is this course for?
+This course will appeal to non-technical professionals and college graduates from non-technical disciplines who wish to upgrade their skills or simply advance their career in the domain of Data Analytics. The programme is particularly suitable for those with numeracy and analytical skills. You do not need to have previously studied programming. However, given the content and the timeframe you will need to have a strong commitment to the course and willingness to fully engage with the technical content.
+Career Prospects
+2021 Graduates used the course to upskill or gain employment in roles such as Collection & Payable Analyst, Data Analyst, Business Process & Data Analyst, Junior Data Specialist, Scalability Analyst, OSM Planner, Trading Analyst, Market Specialist, Business Analyst.
+Companies who hired from 2022 graduates of the Higher Diploma in Data Analytics include: Central Bank of Ireland (Statistics Analyst), Intel (Optimization Engineer), Commission for Communications Regulation (Business Analyst), Netscout (Principal Service Engineer), Pfizer (Data Scientist),Coinbase (Compliance Analyst), TikTok (Quality Analyst), Global Shares (Business Reporting Analyst), Citi (Digital Client Support), Enterprise Ireland (Senior Technologist), VHI (Data Analyst), Pinergy (Data Analyst).
+Entry Requirements
+Applicants will normally have an equivalent to an Irish Level 8 Honours in any discipline will be considered.
+IELTS requirement – 6.0. View our
+English language Requirements
+for further information.
+Please visit NCI's
+Your Country
+section to view the specific entry requirements for your region
+Laptop Requirements
+National College of Ireland has implemented a Bring Your Own Device policy for all courses. Specifically, students are expected to successfully participate in lectures, laboratories and projects using a portable computer (laptop/notebook) with a substantial hardware configuration.
+The recommended configuration is as follows:
+Processor:
+Intel 11th Gen or newer, Core i3 / i5 /i7 or Ultra 3 / 5 /7
+Or
+AMD 5000 Series or newer, Rzyen 3 / 5 /7
+Random Access Memory (RAM):
+16GB or greater
+Storage:
+SSD (Solid State Drive) 256GB or greater
+Wireless Card:
+802.11 n/ac/ax capability
+Recommended Operating Systems:
+Windows 11
+Later Version of MAC OS should also be fine.
+Chromebook’s are not recommended.
+It is the responsibility of the student to ensure their computer is functioning correctly and that they have full administrator rights. NCI cannot provide support for these personal devices.
+Student Laptop Loan Scheme
+A
+Laptop Loan Scheme
+is available for eligible students to assist them in completing their chosen course.
+Award and Progression
+The Higher Diploma in Science in Data Analytics is awarded by QQI at level 8 on the National Framework of Qualifications.Students who successfully complete this course may progress to a major award at level 9 such as the Masters of Science in Data Analytics.
+Course Fee
+The fee for this course for international students is €12,000. For more information on international fees, please visit
+International Fees & Funding
+and
+International Scholarships
+.
+Learn more about studying at NCI as an
+international student
+.
+Course Content
+Semester 1
+Statistics I
+Programming For Data Analytics
+Data Governance
+Career Bridge
+Semester 2
+Statistics II
+Databases for Analytics
+Business Intelligence
+Semester 3
+Machine Learning
+Project
+Assessment
+The course will be assessed with a blend of continuous assessment and exams. This varies between modules but typically assessment is 50% continuous assessment and 50% exam. Please note that in some instances exams may take place in the daytime, evenings and at weekends.
+Indicative Schedule
+International students joining the full-time version of this programme need to be available 09.00-21.00 Monday - Friday (class days and times vary).
+Please note that exams can be scheduled during the morning, afternoon or evening Monday to Saturday.
+Duration
+3 semesters delivered over 1 year - September to December, January to May and May to August.
+Student Profile

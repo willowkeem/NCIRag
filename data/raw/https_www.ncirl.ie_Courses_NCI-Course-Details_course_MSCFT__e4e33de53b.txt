@@ -1,0 +1,103 @@
+MSc in Fintech
+Course Instance ID:
+507826526
+Description:
+MSc in Fintech
+Duration:
+2 years
+NFQ Level:
+Level 9
+Brochure:
+Download MSc in Fintech brochure
+The MSc in Fintech programme was designed to provide students with the essential skills in Financial Technologies covering a variety of topics from both business and technical domains. Students will be familiarised with (i) the technical landscape of fintech domains, such as, classical, advanced, and state-of-the-art financial techniques and analytics methods including their theoretical foundations and mathematical underpinnings, and (ii) the deep understanding of impacts, design, application, and operationalisation of fintech solutions in business contexts.
+NCI is perfectly placed to deliver an industry-focused programme inspired by its location at the heart of the International Financial Services Centre. The course is completely delivered by faculty and industry practitioners with established experience in the fintech domain.
+Course details
+Who is the course for?
+This course typically appeals to those who possess a level 8 qualification in any discipline and wish to transfer to a career in fintech.
+Note that the course is technical in nature and entails a significant amount of independent study. Given the content and the timescale learners need to have a strong commitment to the course and a willingness to fully engage with the technical content.
+This interdisciplinary course will appeal to graduates of finance, computing and business seeking to enter the area of fintech; and industry practitioners seeking to gain insightful experience and exposure to the principles of fintech, as well as data analytics and emerging technologies. Specifically, learners would have opportunity to choose between two learning paths: programming learning path and non-programming learning path. In addition to the core modules, the programming learning path will offer subjects such as Machine Learning for Finance and Programming for Financial Data Science, while the non-programming learning path will offer modules such as Entrepreneurship and Innovation in Fintech, and Leadership, Organisation Culture and Human Factors in Fintech.
+The programme aims to produce high-quality, technically competent, innovative graduates that will become leading practitioners in the field of Financial Technologies. Upon completion of this course, graduates will be able to:
+Synthesize and critically evaluate expert knowledge of governance and compliance, data analysis and visualisation, cybersecurity and IT auditing, big data analytics, high level as well as deep financial data analysis skills, adapting artificial intelligence and machine learning in fintech, techniques and technologies of fintech utilised in both technical and business contexts.
+Formulate, design, assess, and implement effective business and technical solutions and strategies for the fintech domain based on the latest industry practices and standards to enhance human potential and customer support.
+Contextualise and integrate future, emerging, and disruptive technologies in fintech.
+Critically assess and evaluate ethical, sustainable, and responsible risks and impacts associated with technological and strategic solutions in fintech domain. Demonstrate competencies in legal practices and regulations in fintech.
+Critically evaluate and optimise entrepreneurship, business, and technical strategies for the fintech domain. Acquire and develop a comprehensive skill set in leadership and collaboration in order to actualise entrepreneurship and innovation in fintech.
+Career Prospects
+The fintech industry is growing at a fast pace and the global Fintech-as-a-Service Market size is expected to reach $681.6 billion by 2028. Organisations such as Financial Services in Ireland – Skills of the Future, ICTSkillnet Report 2022, Expert Group on Future Skills Needs (EGFSN) have reported a huge market need for graduates with skills in finance and financial technologies in Ireland.
+Course Content
+Core Modules
+Blockchain Technologies
+Financial Markets
+Data Governance, Ethics and Sustainability
+AI for Finance
+Financial Regulations
+Payments and Transaction Services
+Research Elective
+Practicum OR
+Internship
+In addition, there is the choice of two electives.
+Elective Modules
+Programming for Financial Data Science
+Leadership, Organisational Culture, and Human Factors in Fintech
+Machine Learning for Finance
+Entrepreneurship and Innovation in Fintech
+Note that there are dependencies between some electives. To study Machine Learning for Finance elective in semester 2, students must have studied Programming for Financial Data Science elective module in semester 1. However, all the students can elect to study Entrepreneurship and Innovation in Fintech.
+Elective modules are subject to availability and a minimum number of students required to run a module.
+Assessment
+The course will be assessed with a blend of project work and exams. This varies between modules but typically assessment is 50% continuous assessment and 50% exam.
+For information on the modules taught on this course view our
+module descriptors
+.
+Award and Progression
+The Master of Science in Fintech is awarded by QQI at level 9 on the National Framework for Qualifications. Students who successfully complete this course may progress to a major award at level 10 on the NFQ, such as a PhD.
+Entry Requirements
+A level 8 degree (2.2 award) or its equivalent in one or more of the following domains: computer science, finance, business, or economics. Cognate disciplines will also be considered. Note that applicants lacking both a clear financial and technology component may still be eligible but are subject to review.
+The College operates a
+Recognition of Prior Experiential Learning (RPEL)
+scheme - meaning applicants who do not meet the normal academic entry requirements, may be considered based on relevant work or other experience.
+Non-English speaking applicants must demonstrate fluency in the English language as demonstrated by an IELTS academic score of at least 6.0 or equivalent. Visit our
+English Language Requirements
+page for further information.
+Laptop Requirements
+National College of Ireland has implemented a Bring Your Own Device policy for all courses. Specifically, students are expected to successfully participate in lectures, laboratories and projects using a portable computer (laptop/notebook) with a substantial hardware configuration.
+The recommended configuration is as follows:
+Processor:
+Intel 11th Gen or newer, Core i3 / i5 /i7 or Ultra 3 / 5 /7
+Or
+AMD 5000 Series or newer, Rzyen 3 / 5 /7
+Random Access Memory (RAM):
+16GB or greater
+Storage:
+SSD (Solid State Drive) 256GB or greater
+Wireless Card:
+802.11 n/ac/ax capability
+Recommended Operating Systems:
+Windows 11
+Later Version of MAC OS should also be fine.
+Chromebook’s are not recommended.
+It is the responsibility of the student to ensure their computer is functioning correctly and that they have full administrator rights. NCI cannot provide support for these personal devices.
+Student Laptop Loan Scheme
+A
+Laptop Loan Scheme
+is available for eligible students to assist them in completing their chosen course.
+Indicative Schedule
+Two evenings per week 18.00 - 22.00 and every second Saturday.
+Please note that in some instances exams may take place in the daytime, evening, and/or at weekends.
+Course Delivery
+Blended - Livestream with some on-campus stream classes, scheduled in advance.
+See the
+MSc in Fintech course brochure
+for an explanation of the learning methods.
+Duration
+This course runs over 2 years; 4 semesters with an internship/practicum.
+Course Fee
+€4,800 per annum (€9,600 total fee).
+(Fees revised annually)
+You can spread the cost of this course with a
+direct debit plan
+.
+Scholarships and Discounts
+We offer a range of
+scholarship opportunities and discount offers
+available to both NCI and non-NCI graduates that will help you access this course.
+Student Profile

@@ -1,0 +1,113 @@
+MSc in Data Analytics
+Course Instance ID:
+1054430754
+Description:
+MSc in Data Analytics
+Duration:
+2 years
+NFQ Level:
+Level 9
+Brochure:
+Download MSc in Data Analytics brochure
+Please note that this programme is run through NCI and funded by Technology Ireland ICT Skillnet.
+Applications for January 2027 are now open. All applications for this programme must be made through the
+Technology Ireland ICT Skillnet website
+.
+Visit the Course Fees tab below for further information on the subsidised course fees available through Technology Ireland ICT Skillnet.
+Course details
+About this Course
+The overall goal of the MSc in Data Analytics programme is to provide graduates with essential research and development skills in Data Analytics. It is envisaged that graduates from this programme will be well equipped to perform independent research that enables them to make informed and critical decisions regarding requirements elicitation and analysis, implementation, evaluation, and documentation in Data Analytics.
+Furthermore, the programme seeks to produce graduates who are able to provide insight, gain value and discover knowledge (at an organisational, societal, or personal level) from data through exercising the skills that are developed through the programmes.
+The course structure accommodates a wide audience of learners whose specific interests in data analytics may be either technically focused or business focused. The course will be delivered using academic research, industry-defined practical problems, and case studies. This approach will naturally foster a deeper knowledge of the subject area and create transferable skills for work such as critical thinking, problem-solving, creative thinking, communication, teamwork, and research skills. The course is completely delivered by faculty and industry practitioners with proven expertise in data analytics.
+Who is the course for?
+This course is ideal for graduates that are looking to progress into the emerging data analytics market to increase their employment potential. The course is suitable for graduates who have technical or mathematical problem-solving skills.
+Graduates from disciplines that have not developed these skills will need to be able to demonstrate an aptitude for technical or mathematical problem solving.
+Upon completion of this course, graduates will be able to:
+Conduct substantial and extensive independent research and analysis in the field of Data Analytics.
+Formulate and implement a novel research idea using the latest industry practices.
+Demonstrate expert knowledge and a critical understanding of data analysis, statistics, and the tools, techniques and technologies of Data Analytics utilised in both technical and business contexts.
+Critically assess, evaluate and communicate business & technical strategies for Data Analytics.
+Formulate, design, assess, and implement effective business & technical solutions for Data Analytics.
+Critically assess and evaluate security, privacy, sustainability, and ethical issues associated with the storage, transfer, and processing of data for analytical purposes.
+Course Content
+Core Modules
+Statistics and Optimisation
+Analytics Programming and Data Visualisation
+Data Governance, Ethics and Sustainability
+Business Intelligence and Business Analytics
+Data mining and Machine Learning
+Deep Learning and Generative AI
+Elective Choices
+Data Intensive Scalable Systems*
+Modelling and Simulation*
+Domain Applications*
+*Elective modules are subject to availability and a minimum number of students required to run a module.
+Research Elective
+Research Practicum OR
+Internship**
+**The Internship module is available to students as an elective in their final semester. Please note that in view of the restrictive and specialist nature of the programme, the School of Computing reserves the right not to offer certain modules on an elective basis
+Assessment
+The course will be assessed with a blend of project work and exams. This varies between modules but typically assessment is 50% continuous assessment and 50% exam.
+For information on the modules taught on this course view our
+module descriptors
+.
+Further information can be found on our
+Programme Overview
+document as well.
+Award and Progression
+The Master of Science in Data Analytics is awarded by QQI at level 9 on the National Framework of Qualifications. Students who successfully complete this course may progress to a major award at level 10 on the NFQ. Students may also elect to exit early with the Postgraduate Diploma in Science in Data Analytics at level 9 on the NFQ.
+Entry Requirements
+A minimum of a level 8 (honours degree) qualification (2.2 or higher) on the National Framework of Qualifications. Applicants may be from a cognate/STEM background. Standard applicants for the programme are those who hold computing or numerate degrees. All applicants for the programme must provide evidence that they have prior programming experience (e.g., via academic transcripts or recognised certification).
+For candidates who do not have a level 8 qualification, the college operates a
+Recognition of Prior Experiential Learning (RPEL)
+scheme meaning applicants  who do not meet the normal academic entry requirements, may be considered based on relevant work or other experience.
+Non-English speaking applicants must demonstrate fluency in the English language as demonstrated by an IELTS academic score of at least 6.0 or equivalent. Visit our
+English Language Requirements
+page for further information.
+Laptop Requirements
+National College of Ireland has implemented a Bring Your Own Device policy for all courses. Specifically, students are expected to successfully participate in lectures, laboratories and projects using a portable computer (laptop/notebook) with a substantial hardware configuration.
+The recommended configuration is as follows:
+Processor:
+Intel 11th Gen or newer, Core i3 / i5 /i7 or Ultra 3 / 5 /7
+Or
+AMD 5000 Series or newer, Rzyen 3 / 5 /7
+Random Access Memory (RAM):
+16GB or greater
+Storage:
+SSD (Solid State Drive) 256GB or greater
+Wireless Card:
+802.11 n/ac/ax capability
+Recommended Operating Systems:
+Windows 11
+Later Version of MAC OS should also be fine.
+Chromebook’s are not recommended.
+It is the responsibility of the student to ensure their computer is functioning correctly and that they have full administrator rights. NCI cannot provide support for these personal devices.
+Student Laptop Loan Scheme
+A
+Laptop Loan Scheme
+is available for eligible students to assist them in completing their chosen course.
+Indicative Schedule
+Two evenings per week 18.00 - 22.00 and every second Saturday.
+Please note that in some instances exams may take place in the daytime, evening, and/or at weekends.
+Course Delivery
+Blended - Livestream with some directed e-learning activities, scheduled in advance.
+Duration
+This course runs over 2 years; 4 semesters with a final internship/research practicum.
+Course Fee
+Fees
+Full course fee: €3,875 per year
+Technology Ireland ICT Skillnet grant: €725 per year
+Subsidised course fee: €3,150 per year
+Part-funded fees are only available to eligible applicants*.
+*Funding Eligibility
+Applicants must be working in a private or commercial semi-state organisation registered in the Republic of Ireland (Business, Consultant, Freelancer) to avail of the grant-aided fees. As a government-funded training network, Technology Ireland ICT Skillnet can only support those meeting these criteria.
+Applicants who do not meet this funding criteria may in some cases be able to apply and pay the full fee per year if there are available places. This includes public sector, unemployed and those in charitable organisations.
+Contact Technology Ireland ICT Skillnet
+for more information
+Technology Ireland ICT Skillnet
+This programme starting in January 2027 is part-funded by Technology Ireland ICT Skillnet.
+Part-funded fees are only available for eligible candidates working in private or commercial semi-state organisations in the Republic of Ireland. If you are interested in applying, please submit your CV on the
+Technology Ireland ICT Skillnet website
+.
+Technology Ireland ICT Skillnet is a Government-backed business-support network, connecting teams and individuals from small and large companies to highly subsidised and cutting edge training in the latest technologies driving business development. Technology Ireland ICT Skillnet is promoted by Technology Ireland, an Ibec business association, and funded by Skillnet Ireland through the National Training Fund.
+Student Profile

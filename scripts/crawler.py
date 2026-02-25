@@ -11,9 +11,13 @@ import urllib.robotparser as robotparser
 # Restrict to NCI course information related paths
 ALLOWED_PREFIXES = [
     "https://www.ncirl.ie/Study/",          # Course listings, tuition fees, entry requirements, etc.
-    "https://www.ncirl.ie/Courses/",        # Detailed course pages
-    "https://www.ncirl.ie/Students/International/", # Additional info for international students
+    "https://www.ncirl.ie/Students/"
+    "https://www.ncirl.ie/Courses/"
+    "https://www.ncirl.ie/Careers/",        # Detailed course pages
+    "https://www.ncirl.ie/International/", # Additional info for international students
 ]
+
+SEED = "https://www.ncirl.ie/"
 
 # Key keywords to be included in the URL
 URL_KEYWORDS_ALLOW = [
@@ -44,9 +48,7 @@ SEED = "https://www.ncirl.ie/Study/All-Courses"
 DOMAIN = "ncirl.ie"
 
 # Output locations
-BASE_DIR = os.path.abspath(
-    os.path.dirname(__file__))
-
+BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 OUTDIR = os.path.join(BASE_DIR, "data", "raw")
 HTMLDIR = os.path.join(OUTDIR, "html")
 MANIFEST = os.path.join(OUTDIR, "manifest.jsonl")
@@ -149,6 +151,17 @@ def save_bytes_as_urlname(url: str, content: bytes, mime: str):
         f.write(content)
     return fn, path
 
+def extract_clean_text(html_content):
+    soup = BeautifulSoup(html_content, "html.parser")
+    for noise in soup(['nav', 'footer', 'header', 'script', 'style', 'aside']):
+        noise.decompose()
+    main_content = soup.find('main') or soup.find('article') or soup.find(id='content')
+    if main_content:
+        text = main_content.get_text(separator='\n', strip=True)
+    else:
+        text = soup.get_text(separator='\n', strip=True)
+    return text
+
 # Crawl loop
 seen = set()
 to_visit = [(normalize_url(SEED), 0)]
@@ -182,7 +195,12 @@ with open(MANIFEST, "a", encoding="utf8") as mf:
         content_type = resp.headers.get("content-type", "")
         
         if resp.ok:
-            filename, saved_path = save_bytes_as_urlname(url, resp.content, content_type)
+            if "html" in content_type.lower():
+                cleaned_text = extract_clean_text(resp.content)
+                save_data = cleaned_text.encode("utf-8")
+                filename, saved_path = save_bytes_as_urlname(url, save_data, "text/plain")
+            else:
+                filename, saved_path = save_bytes_as_urlname(url, resp.content, content_type)    
             
             manifest = {
                 "doc_id": hashlib.sha1(url.encode("utf-8")).hexdigest()[:10],

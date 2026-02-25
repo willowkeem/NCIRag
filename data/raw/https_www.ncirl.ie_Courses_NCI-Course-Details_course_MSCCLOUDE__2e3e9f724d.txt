@@ -1,0 +1,93 @@
+MSc in Cloud Computing
+Course Instance ID:
+910492944
+Description:
+MSc in Cloud Computing
+Duration:
+2 years
+NFQ Level:
+Level 9
+Brochure:
+Download MSc in Cloud Computing brochure
+This programme aims to fulfil the ICT sector-specific needs as reported in Ireland’s National Skills Strategy 2025. By combining technical skills with innovation principles, it effectively delivers core technology skills in cloud software development, fog/edge computing, DevOps, security, and data governance.
+Students will gain experience with the latest ethical design principles, models, and technologies via our state-of-the-art Cloud Competency Centre. The course is delivered by faculty and industry practitioners with proven expertise in cloud computing.
+Course details
+Who is the course for?
+This programme will appeal to computer science graduates, ICT industry practitioners, system administrators, and those with an interest in gaining practical experience in cloud computing.
+As a graduate of this programme, you will be able to:
+Conduct independent research and analysis in the field of cloud computing.
+Formulate and implement a novel research idea using the latest industry practices.
+Demonstrate expert knowledge of application development, systems programming, parallel and distributed computing, and the tools, techniques and technologies of cloud computing utilised in both technical and business contexts.
+Critically assess, evaluate, and communicate business and technical strategies for cloud computing.
+Develop and implement effective business and technical solutions for cloud computing.
+Critically assess and evaluate security, privacy, and ethical issues associated with the storage, transfer, and processing of data on private and public cloud infrastructures.
+Course Content
+Core Modules
+Cloud Architectures
+Cloud Platform Programming
+GreenOps and Sustainability
+AI in the Cloud
+Scalable Cloud Programming
+Business Strategies in the Cloud
+Quantum Computing
+Data Sovereignty & Open Innovation
+Research Elective
+Research Practicum
+or
+Internship
+Assessment
+The course will be assessed with a combination of continuous assessments, projects, and exams. Please note that in some instances exams may take place in the daytime, evening, and/or at weekends.
+Note: This course is currently being revalidated and content may change slightly before September 2026. Every effort has been made to ensure the accuracy of the information at time of going to print.
+For information on the modules taught on this course view our
+module descriptors
+.
+Award and Progression
+The Master of Science in Cloud Computing is awarded by QQI at level 9 on the National Framework of Qualifications. Students who successfully complete this course may progress to a major award at level 10 on the NFQ. Students may also elect to exit early with the Postgraduate Diploma in Science in Cloud Computing at level 9 on the NFQ.
+Entry Requirements
+An honours (level 8) primary degree in a computing discipline with a 2.2 award or higher. Students in their final year of undergraduate study can be admitted on the condition that their degrees are awarded before they enrol at NCI.
+The College operates a
+Recognition of Prior Experiential Learning (RPEL)
+scheme meaning applicants who do not meet the normal academic requirements may be considered based on relevant work and other experience. This may be assessed using a portfolio of learning, demonstration of work produced, and an interview.
+Non-English-speaking applicants must demonstrate fluency in English evidenced by an IELTS academic score of at least 6.0 or equivalent. Visit our
+English Language Requirements
+page for further information.
+Laptop Requirements
+National College of Ireland has implemented a Bring Your Own Device policy for all courses. Specifically, students are expected to successfully participate in lectures, laboratories and projects using a portable computer (laptop/notebook) with a substantial hardware configuration.
+The recommended configuration is as follows:
+Processor:
+Intel 11th Gen or newer, Core i3 / i5 /i7 or Ultra 3 / 5 /7
+Or
+AMD 5000 Series or newer, Rzyen 3 / 5 /7
+Random Access Memory (RAM):
+16GB or greater
+Storage:
+SSD (Solid State Drive) 256GB or greater
+Wireless Card:
+802.11 n/ac/ax capability
+Recommended Operating Systems:
+Windows 11
+Later Version of MAC OS should also be fine.
+Chromebook’s are not recommended.
+It is the responsibility of the student to ensure their computer is functioning correctly and that they have full administrator rights. NCI cannot provide support for these personal devices.
+Student Laptop Loan Scheme
+A
+Laptop Loan Scheme
+is available for eligible students to assist them in completing their chosen course.
+Indicative Schedule
+Two evenings per week 18.00 - 22.00 and some Saturdays.
+Please note that in some instances exams may take place in the daytime, evening, and/or at weekends.
+Course Delivery
+Blended - Livestream with some on-campus stream classes, scheduled in advance.
+Duration
+This course runs over 2 years; 4 semesters with a final research project.
+Course Fee
+€4,800 per annum (€9,600 total fee).
+(Fees revised annually)
+You can spread the cost of this course with a
+direct debit plan
+.
+Scholarships and Discounts
+We offer a range of
+scholarship opportunities and discount offers
+available to both NCI and non-NCI graduates that will help you access this course.
+Student Profile

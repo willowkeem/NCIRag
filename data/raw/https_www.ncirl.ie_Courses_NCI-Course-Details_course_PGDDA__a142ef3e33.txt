@@ -1,0 +1,97 @@
+Postgraduate Diploma in Science in Data Analytics
+Course Instance ID:
+749000779
+Description:
+Postgraduate Diploma in Science in Data Analytics
+Duration:
+1 year
+NFQ Level:
+Level 9
+Brochure:
+Download Postgraduate Diploma in Science in Data Analytics brochure
+This course aims to produce technically competent, innovative graduates that will become leading practitioners in the field of data analytics. Upon completion, graduates will be able to:
+Conduct independent research and analysis in the field of data analytics
+Demonstrate expert knowledge of data analysis and statistics, and the tools, techniques and technologies of data analytics utilised in both technical and business contexts
+Critically assess and evaluate business and technical strategies for data analytics
+Develop and implement effective business and technical solutions for data analytics
+Critically appreciate ethical and data governance issues relevant to data analytics
+Course details
+Course Description
+The course is designed to accommodate those with specific interests in data analytics, whether that may be of a more technically focused or a more business focused nature. All learners will also gain exposure to pertinent legal issues and ethical issues associated with the data analytics field.
+Students will gain exposure to product commercialisation issues associated with data analytics. The course is delivered by faculty and practitioners using academic research, industry defined practical problems, and case studies.
+Students undertaking this course will be exposed to a variety of programming languages/tools that may include R, Python, SPSS, Excel, Weka and RapidMiner.
+Career Prospects
+This course is designed to meet the ever-growing need for deep skills in Big Data/Analytics to fill a skills shortage in Ireland.
+Companies who hired from 2022 graduates include: DTSQUARED (Data Management Consultant) Valeo (Data Management Lead), ESB (Data Analyst) SectoGMC (QA Manager), TedCastles Oil Products (Senior Business Analyst), Fidelity Investments (Senior Systems Analyst), MetLife Production (Management Analyst) Pernod Ricard (Marketing Analytics), DXC Technology (Data Analyst) , Deloitte (Artificial Intelligence Consultant).
+Who is the course for?
+This course is for graduates who have substantial technical,especially programming, and mathematical/statistical skills. Graduates from non-STEM disciplines (Science, Technology, Engineering, and Mathematics) that have not developed these skills will need to be able to demonstrate an aptitude for technical (programming) and mathematical problem solving.
+Award and Progression
+Graduates of the Postgraduate Diploma in Science in Data Analytics are awarded an NFQ Level 9 qualification. You can optionally complete the additional 30 credits required to upgrade their qualification to the
+MSc in Data Analytics
+(not included under Springboard+ - additional fee would apply).
+Entry Requirements
+Applicants are normally required to hold a minimum of a level 8 honours qualification (2.2 or
+higher) or equivalent on the NFQ in a cognate discipline. Candidates will be required to demonstrate technical or mathematical problem solving in previous learning. Graduates from programmes without embedded technical or mathematical problem solving will need to demonstrate these skills in addition to level 8 qualifications (via certifications, qualifications, certified experience and assessment tests).
+All applicants must evidence prior programming experience (e.g., via academic transcripts or recognised certification). Standard applicants are holders of technical, numerate degrees who are likely to gain a higher ranking in order of merit for admission to this programme. Normally, these would be applicants who have gained a minimum of a Level 8 qualification in a numerate discipline, typically Computing or Informatics. Such applicants with a level 8 qualification (2.2 or higher) or equivalent are eligible for direct entry. Following computing graduates, we next assign priority to candidates with a background in engineering, mathematics, physics and chemistry. Consideration of these applications is by detailed examination of the content, assessments and syllabi of applicants’ primary degrees. Such candidates may also be assessed by interview.
+Additionally, applications will be considered for those with a minimum of a Level 8  qualification in a programme with a significant IT and/or numerate component which could include Management Information Systems, Accounting, Economics, Marketing Management, Sociology and Biology. Programmes in this category may vary greatly in mathematical and information technology content and applications would be assessed by detailed examination of programme content, assessments and syllabi. Candidates with qualifications in this category will be assessed by interview.
+For applicants whose first language is not English, please note the
+English language entry requirements
+.
+Laptop Requirements
+National College of Ireland has implemented a Bring Your Own Device policy for all courses. Specifically, students are expected to successfully participate in lectures, laboratories and projects using a portable computer (laptop/notebook) with a substantial hardware configuration.
+The recommended configuration is as follows:
+Processor:
+Intel 11th Gen or newer, Core i3 / i5 /i7 or Ultra 3 / 5 /7
+Or
+AMD 5000 Series or newer, Rzyen 3 / 5 /7
+Random Access Memory (RAM):
+16GB or greater
+Storage:
+SSD (Solid State Drive) 256GB or greater
+Wireless Card:
+802.11 n/ac/ax capability
+Recommended Operating Systems:
+Windows 11
+Later Version of MAC OS should also be fine.
+Chromebook’s are not recommended.
+It is the responsibility of the student to ensure their computer is functioning correctly and that they have full administrator rights. NCI cannot provide support for these personal devices.
+Student Laptop Loan Scheme
+A
+Laptop Loan Scheme
+is available for eligible students to assist them in completing their chosen course.
+Course Content
+Semester 1*
+Statistics and Optimisation
+Analytics Programming and Data Visualisation
+Data Governance, Ethics and Sustainability
+Career Bridge
+Semester 2*
+Data mining and Machine Learning
+Business Intelligence and Business Analytics
+Semester 3*
+Deep Learning and Generative AI
+Modelling and Simulation - Elective Module
+Data Intensive Scalable Systems - Elective Module
+Domain Applications - Elective Module
+*Modules are indicative and subject to change, pending QQI approval
+Note:
+Electives are designed to allow students to gain specialised knowledge in Data Analytics related areas. Students will choose two out of the three elective modules. The selection will be subject to the minimum number of students required to run a module.
+Springboard Careers Advisors will proactively support you to find relevant employment during the course or following completion of the course.
+Note that all modules count towards the final award classification.
+For information on the modules taught on this course view our
+module descriptors
+.
+Course Assessment
+The course will be assessed with a blend of project work and exams. This varies between modules but typically assessment is 50% continuous assessment and 50% exam. Please note that in some instances exams may take place in the daytime, evenings and at weekends.
+Course Delivery
+This is an online learning course that features Directed E-Learning activities such as live online classroom sessions and tutorials/videos on the College’s e-learning system.
+This allows for online class time to be interactive, practical, and focused, with theory-based content being covered outside of class time with self-paced tutorials/videos, and practical content being covered in live online classes with support from lecturers and lab assistants.
+Indicative Schedule
+Tuesday and Thursday 18.00 - 22.00
+There will also be four hours self-paced learning per week on NCI’s Learning Platform weekly. This will not appear on your timetable. Career Bridge classes will be delivered one day per week in Semester 2 from 17.00 to 18.00. Day to be confirmed.
+Please note that in some instances exams may take place in the daytime, evenings and at weekends.
+Duration
+1 Year, 3 semesters - January to May 2025, May to August 2025 and September to December 2025.
+Course Fee
+The fee for this course is €6,500 (fees revised annually).
+Student Profile

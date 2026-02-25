@@ -1,0 +1,137 @@
+Higher Certificate in Data Science
+Course Instance ID:
+830319246
+Description:
+Higher Certificate in Data Science
+Duration:
+2 years
+NFQ Level:
+Level 6
+Brochure:
+Download Higher Certificate in Data Science brochure
+NCI’s Higher Certificate in Data Science uses a blend of computer science and data science to provide you with the knowledge and skills necessary to carry out data modelling, data management and data analysis activities, and to interpret and communicate that data to a variety of audiences.
+Here are
+10 big reasons why you should consider studying data science
+.
+CAO Course Code:
+NC105
+International Students
+If you are an international student interested in applying for this programme, please click on the link below:
+September 2026 - Apply Here
+Course details
+CAO Open Day Events
+Join us at one of our CAO Open Day events for Leaving Certificate students where you will be able to chat with our lecturers and talk to students about their course experiences.
+Wednesday, May 13th 2026 - Register Here
+Saturday, June 27th 2026 - Register Here
+About this Course
+The programme gives you the Mathematics, programming and problem-solving skills required to exploit data in addressing real-world problems. You will also develop your problem solving, teamwork, critical thinking and communication skills.
+Graduates of this course can identify, clean, integrate, select, transform, and mine different types of datasets with consideration of ethical, privacy and data protection issues, in order to summarise and present new knowledge; design, implement and document algorithmic solutions that demonstrate use of processes, methodologies, tools and techniques that solve known problems; and utilise statistical analysis, modelling, data mining and machine learning tools and techniques to analyse datasets.
+Course Content
+Year 1
+Semester 1
+Computational Thinking
+Discrete Mathematics
+Programming Concepts
+Introduction to Data Science & Artificial Intelligence
+Web Design & Development
+Semester 2
+Computer Architecture
+Introduction to Data Modelling and Databases
+The Computing Industry
+Introduction to Programming
+Operating Systems
+Year 2
+Semester 1
+Advanced Databases
+Data Programming
+Object Oriented Programming
+Web Application Development
+Statistics I
+Semester 2
+Innovation and Business Entrepreneurship
+Data Mining and Machine Learning
+Data Visualisation
+Linear Algebra
+Statistics II
+For information on the modules taught on this course view our
+module descriptors
+.
+Course Structure and Award
+This two-year Higher Certificate course is run over four semesters with continuous assessment held throughout the course and examinations at the end of each semester.
+On completion, you will receive a QQI Higher Certificate in Data Science at level 6 on the National Framework of Qualifications.
+Who is the course for?
+This course will be particularly appealing to students who are unsure about enrolling in a degree programme initially and see the Higher Certificate as a progression route to a degree at a later stage. The course is for school leavers, mature students and graduates of QQI level 5/6 programmes.
+Further Study Options
+Upon successful completion of the Higher Certificate in Data Science, graduates can gain entry directly into year three of the
+BSc (Hons) in Data Science
+at NCI.
+Career Prospects
+This course will equip you with the technical computer science and data science skills to build a successful career as a technician in the areas of computing, data management and data analysis.
+According to a
+Higher Education Outcomes Report
+released by the CSO, ICT graduates in 2010 had the highest median earnings 10 years after graduation compared to other sectors based on the analysis of the destinations of students who graduated between 2010 and 2019 .
+Minimum Entry Requirements
+Minimum entry requirements are a grade of O6/H7 or above in five subjects. A minimum of grade O4/H7 must be obtained in Mathematics. A minimum of grade O6/H7 must be obtained in English or Irish. These requirements are subject to QQI validation and will be confirmed in the coming weeks.
+For applicants whose first language is not English, please note the
+English language entry requirements
+.
+Mature applicants
+, applicants with a disability or those applying through the
+DARE
+or
+HEAR
+access schemes can find out more information on the
+application process
+.
+Applicants from a PLC/further education course must meet the CAO points requirement, have a full level 5/6 award, and achieve three distinctions. One distinction must be held in one of the following modules: B20029 or C20139 or C20174 or C20175 or N33029 or 4N2138 or 5N0554 or 5N0556 or 5N16654 or 5N1833 or 5N18396 or 5N2066 or 6N3395 (or O4/H7 in LC Mathematics). Visit our
+QQI Applicants page
+for further information.
+Please note that exams can be scheduled during the morning, afternoon or evening Monday to Saturday.
+Laptop Requirements
+While access to a suitable PC or laptop is recommended for all students, it is not required for full-time students on this programme to bring their own device.
+The recommended configuration for laptops is as follows:
+Processor:
+Intel 11th Gen or newer, Core i3 / i5 /i7 or Ultra 3 / 5 /7
+Or
+AMD 5000 Series or newer, Rzyen 3 / 5 /7
+Random Access Memory (RAM):
+16GB or greater
+Storage:
+SSD (Solid State Drive) 256GB or greater
+Wireless Card:
+802.11 n/ac/ax capability
+Recommended Operating Systems:
+Windows 11
+Later Version of MAC OS should also be fine.
+Chromebook’s are not recommended.
+It is the responsibility of the student to ensure their computer is functioning correctly and that they have full administrator rights. NCI cannot provide support for these personal devices.
+Student Laptop Loan Scheme
+A
+Laptop Loan Scheme
+is available for eligible students to assist them in completing their chosen course.
+CAO Points
+2025 CAO Points Guide :* 200
+*For each course we have given a guideline based on our points over the past 3 years. This is a guide only, points vary each year.
+The CAO course code is NC105.
+Sports Scholarship
+Did you know you can apply for a
+Sports Scholarship
+at NCI?
+Watch this video
+to hear from our current sports scholars Stephen Achukwu (basketball) and Adam Leonard (football):
+Free Fees
+This course qualifies under the
+Free Fees Initiative
+and the
+Student Grant Scheme
+.
+International Students' Fees
+The fee for this course for international students is €14,000. For more information on international fees, please visit
+International Fees & Funding
+and
+International Scholarships
+.
+Learn more about studying at NCI as an
+international student
+.
+Student Profile

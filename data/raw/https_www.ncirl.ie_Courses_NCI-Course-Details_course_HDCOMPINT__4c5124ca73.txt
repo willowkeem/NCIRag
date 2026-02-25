@@ -1,0 +1,105 @@
+Higher Diploma in Science in Computing (International)
+Course Instance ID:
+222222222
+Description:
+Higher Diploma in Science in Computing (International)
+Duration:
+1 year
+NFQ Level:
+Level 8
+The Higher Diploma in Science in Computing is a Level 8 course. The course will teach you the computing fundamentals, complemented with detailed knowledge, problem-solving and specialised technical skills required for designing, developing and deploying software.
+The course offers a specialisation in Software Development in the second semester.
+Students who successfully complete this course will be eligible to progress to a Master’s programme (Level 9) in a specialised area of computing such as
+MSc in Data Analytics
+,
+MSc in Cybersecurity
+,
+MSc in Cloud Computing
+,
+MSc in Fintech
+,
+MSc in Artificial Intelligence
+and
+MSc in Artificial Intelligence for Business
+.
+Note that a minimum of three years relevant work experience in industry is required to be eligible for the MSc in Artificial Intelligence for Business.
+How to Apply
+International students can apply for this course by selecting a start date below:
+January 2026
+September 2026
+If you have any queries, please contact our International Team by emailing
+international@ncirl.ie
+.
+Course details
+Who is the course for?
+This course will appeal to graduates with a level 8 degree from different backgrounds who wish to change their non-computing qualification into the tech field through a level 8 award in computing.
+It will also appeal to technical and non-technical professionals who would like to upgrade their skills in one of the specialisations provided by this course, helping them to progress faster in their employment or to apply the knowledge in their current role.
+Career Prospects
+Students who successfully complete this course will be eligible to progress to a Master’s programme (Level 9) in a specialised area of computing such as
+MSc in Data Analytics
+,
+MSc in Cybersecurity
+,
+MSc in Cloud Computing
+and
+MSc in Fintech
+.
+Graduates may also avail of entry-level tech related positions, depending on the selected stream, such as mobile application designer/developer; cloud application developer; cloud solutions architect; software developer; system and network administrator; IT infrastructure implementation, installation, support and helpdesk specialist; IoT software developer; entry-level cybersecurity engineer; cybersecurity tester; computer forensics examiner; software tester; quality assurance software tester; and test architect
+Laptop Recommendations
+National College of Ireland has implemented a Bring Your Own Device policy for all courses. Specifically, students are expected to successfully participate in lectures, laboratories and projects using a portable computer (laptop/notebook) with a substantial hardware configuration.
+The recommended configuration is as follows:
+Processor:
+Intel 11th Gen or newer, Core i3 / i5 /i7 or Ultra 3 / 5 /7
+Or
+AMD 5000 Series or newer, Rzyen 3 / 5 /7
+Random Access Memory (RAM):
+16GB or greater
+Storage:
+SSD (Solid State Drive) 256GB or greater
+Wireless Card:
+802.11 n/ac/ax capability
+Recommended Operating Systems:
+Windows 11
+Later Version of MAC OS should also be fine.
+Chromebook’s are not recommended.
+It is the responsibility of the student to ensure their computer is functioning correctly and that they have full administrator rights. NCI cannot provide support for these personal devices.
+Student Laptop Loan Scheme
+A
+Laptop Loan Scheme
+is available for eligible students to assist them in completing their chosen course.
+Entry Requirements
+Applicants will normally have an equivalent to an Irish Level 8 Honours in any discipline will be considered.
+IELTS requirement – 6.0. View our
+English language Requirements
+for further information.
+Please visit NCI's
+Your Country
+section to view the specific entry requirements for your region
+Course Content
+Semester 1
+Introduction to Databases
+Object Oriented Software Engineering
+Software Development
+Web Design and Client Side Scripting
+Semester 2
+Computer Architecture Operating Systems and Networks
+Data Structures
+Algorithms and Advanced Programming
+Distributed Systems
+Semester 3
+Project
+Indicative Schedule
+International students joining the full-time version of this programme need to be available 09.00-21.00 Monday - Friday (class days and times vary).
+Please note that exams can be scheduled during the morning, afternoon or evening Monday to Saturday.
+Duration
+This course runs over 1 year with 3 semesters.
+Course Fees
+The fee for this course for international students is €12,000. For more information on international fees, please visit
+International Fees & Funding
+and
+International Scholarships
+.
+Learn more about studying at NCI as an
+international student
+.
+Student Profile

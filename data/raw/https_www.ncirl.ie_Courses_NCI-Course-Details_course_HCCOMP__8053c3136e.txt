@@ -1,0 +1,125 @@
+Higher Certificate in Computing
+Course Instance ID:
+479898742
+Description:
+Higher Certificate in Computing
+Duration:
+2 years
+NFQ Level:
+Level 6
+Brochure:
+Download Higher Certificate in Computing brochure
+NCI’s Higher Certificate in Computing is an ideal starting point to your studies as it offers a clear path into the computing degrees at NCI and other institutions. This full-time course will provide you with all the skills you need to pursue a career in the Information and Communications Technology industry.
+CAO Course Code:
+NC102
+International Students
+If you are an international student interested in applying for this programme, please click on the link below:
+September 2026 - Apply Here
+Course details
+About this Course
+Graduates of this course understand the essentials of information technology and software development, can design and create fully functioning websites as well as multimedia applications, are able to install and configure software and hardware, have a detailed knowledge of the theory and practice of application development and support including the essentials of hardware, software, operating systems and databases.
+CAO Open Day Events
+Join us at one of our CAO Open Day events for Leaving Certificate students where you will be able to chat with our lecturers and talk to students about their course experiences.
+Wednesday, May 13th 2026 - Register Here
+Saturday, June 27th 2026 - Register Here
+Course Structure and Award
+This two-year higher certificate course is run over four semesters with continuous assessment held throughout the course and examinations at the end of each semester. On completion, you will receive a QQI Higher Certificate in Computing at level 6 on the National Framework of Qualifications. The course also prepares students for industry-recognised certificates in leading technologies.
+Course Content
+Year 1
+Semester 1
+Discrete Mathematics
+Programming Concepts
+Web Design & Development
+Introduction to Data Science & Artificial Intelligence
+Computational Thinking
+Semester 2
+Computer Architecture
+The Computing Industry
+Introduction to Programming
+Introduction to Data Modelling and Databases
+Operating Systems
+Year 2
+Semester 1
+Data Communications and Networking
+Object Oriented Programming
+Web Application Development
+Advanced Databases
+Data Programming
+Semester 2
+Innovation and Business Entrepreneurship
+Software Engineering
+Software Quality and Testing
+Data Structures & Algorithms
+Team Project
+For information on the modules taught on this course view our
+module descriptors
+.
+Career Prospects
+There has been significant growth in information technology in Ireland and there is a current shortage of IT graduates. This course will equip you with the technical knowledge to build a successful career in information technology, specifically in a technical support role.
+Further Study Options
+Upon successful completion of the Higher Certificate in Computing, graduates can gain entry into year three of the
+BSc (Honours) in Computing
+at National College of Ireland (subject to availability of places).
+Who is the course for?
+This course will be particularly appealing to students who are unsure about enrolling in a degree programme initially and see the higher certificate as a progression route to a degree at a later stage. The course is for school leavers, mature students and graduates of QQI level 5/6 programmes.
+Minimum Entry Requirements
+Minimum entry requirements are a grade O6/H7 or above in five subjects. A minimum of grade O6/H7 must be obtained in English or Irish. A grade O6/H7 must be obtained in Mathematics.
+For applicants whose first language is not English, please note the
+English language entry requirements
+.
+Mature applicants
+, applicants with a disability or those applying through the
+DARE
+or
+HEAR
+access schemes can find out more information on the
+application process
+. Applicants under 21 will be assessed based on Leaving Certificate or equivalent.
+Please note that exams can be scheduled during the morning, afternoon or evening Monday to Saturday.
+Free Fees
+This course qualifies under the
+Free Fees Initiative
+and
+Student Grant Scheme
+.
+Laptop Requirements
+While access to a suitable PC or laptop is recommended for all students, it is not required for full-time students on this programme to bring their own device as all classes will be scheduled in rooms with PC's. To successfully participate it is advisable to have access to a computer/laptop at home.
+The recommended configuration is as follows:
+Processor:
+Intel 11th Gen or newer, Core i3 / i5 /i7 or Ultra 3 / 5 /7
+Or
+AMD 5000 Series or newer, Rzyen 3 / 5 /7
+Random Access Memory (RAM):
+16GB or greater
+Storage:
+SSD (Solid State Drive) 256GB or greater
+Wireless Card:
+802.11 n/ac/ax capability
+Recommended Operating Systems:
+Windows 11
+Later Version of MAC OS should also be fine.
+Chromebook’s are not recommended.
+It is the responsibility of the student to ensure their computer is functioning correctly and that they have full administrator rights. NCI cannot provide support for these personal devices.
+Student Laptop Loan Scheme
+A
+Laptop Loan Scheme
+is available for eligible students to assist them in completing their chosen course.
+CAO Points
+2024 CAO Points Guide :* 225
+*For each course we have given a guideline based on our points over the past 3 years. This is a guide only, points vary each year.
+The CAO course code is NC102.
+QQI Level 5/6 Applicants
+Students must obtain a minimum of 5 passes and a full award and meet the CAO points requirements to apply for this Level 6 course.
+Visit our
+QQI Applicants
+page for further information.
+International Student's Fees
+The fee for this course for international students is €14,000. For more information on international fees, please visit
+International Fees & Funding
+and
+International Scholarships
+.
+Learn more about studying at NCI as an
+international student
+.
+Student Profile

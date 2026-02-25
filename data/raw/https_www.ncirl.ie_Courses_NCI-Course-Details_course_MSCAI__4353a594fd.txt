@@ -1,0 +1,112 @@
+MSc in Artificial Intelligence
+Course Instance ID:
+909177597
+Description:
+MSc in Artificial Intelligence
+Duration:
+1 year
+NFQ Level:
+Level 9
+Brochure:
+Download MSc in Artificial Intelligence brochure
+This course aims to produce high-quality, technically competent, innovative graduates that will become leading practitioners in the field of artificial intelligence. The MSc in AI contains modules covering fundamental and specialised AI topics, as well as topics related to operationalisation and application of AI to solve real-world problems.
+All students will gain a deeper understanding of the complete development lifecycle of AI software applications, from requirements elicitation and analysis, implementation, decision making, evaluation, and documentation.
+Location
+Start Date
+IFSC Campus
+14/09/2026
+Apply Now
+Course details
+About this Course
+The course will be delivered using academic research, industry defined practical problems, and case studies. This approach will naturally provide a deeper knowledge of AI and create skills required in industry such as critical thinking, problem-solving, creative thinking, communication, teamwork, and research skills.
+Upon completion of this course, graduates will be able to:
+Demonstrate expert knowledge of Engineering Artificial Intelligence systems, Machine Learning, Optimisation Techniques, and the tools, techniques and technologies of Artificial Intelligence utilised in real world contexts.
+Formulate, design, implement, and evaluate novel real-world solutions at the forefront of Artificial Intelligence using the latest industry practices and standards.
+Select, assess, and apply advanced and emerging Artificial Intelligence techniques and tools to enhance decision making.
+Synthesise and communicate technical Artificial Intelligence solutions.
+Critically assess and evaluate ethical, sustainable, and responsible issues associated with the development and deployment of Artificial Intelligence systems.
+Conduct independent research in the field of Artificial Intelligence.
+Who is the course for?
+This course is ideal for graduates that are looking to progress into the emerging AI market to increase their employment potential. The course is suitable for graduates who have programming and mathematical problem-solving skills. Graduates from disciplines that have not developed these skills will need to be able to demonstrate an aptitude for programming or mathematical problem solving.
+Course Content
+Core Modules
+Principles of Artificial Intelligence
+Programming for Artificial Intelligence Generative AI
+Data Governance, Ethics and Sustainability
+Engineering and Evaluating Artificial Intelligence Systems
+Intelligent Agents and Process Automation
+Decision Analytics
+Machine Learning
+Explainable and Emerging AI Technologies
+Research Elective
+Practicum OR
+Internship
+Elective modules are subject to availability and a minimum number of students required to run a module
+Assessment
+The course will be assessed with a blend of project work and exams. This varies between modules but typically assessment is 50% continuous assessment and 50% exam.
+For more information on the modules taught on this course view our
+module descriptors
+.
+Award and Progression
+The Master of Science in Artificial Intelligence is awarded by QQI at level 9 on the National Framework of Qualifications. Students who successfully complete this course may progress to a major award at level 10 on the NFQ. Students may also elect to exit early with the Postgraduate Diploma in Science in Artificial Intelligence level 9 on the NFQ.
+Potential recruiters include corporate companies and research labs who are the providers of AI-enabled solutions of today’s real-world problems such as Microsoft, Huawei, LinkedIn and Citi Bank.
+Entry Requirements
+A minimum of a level 8 primary degree in Computing or a cognate area with a 2.2 award or higher or equivalent on the National Qualifications Framework. Cognate area means a STEM (Science, Technology, Engineering, and Mathematics) degree that also taught programming/ application development related modules. An assessment and/ or interview may be conducted to ascertain suitability if necessary.
+The College operates a
+Recognition of Prior Experiential Learning (RPEL)
+scheme meaning applicants who do not meet the normal academic requirements may be considered based on relevant work and other experience. This may be assessed using a portfolio of learning, demonstration of work produced, and an interview. The programming ability of the applicant will also be assessed.
+Non-English speaking applicants
+must demonstrate fluency in the English language as demonstrated by IELTS academic score of at least 6.0 or equivalent.
+For international students, please visit NCI's
+Your Country
+section to view the specific entry requirements for your region.
+Laptop Requirements
+National College of Ireland has implemented a Bring Your Own Device policy for all courses. Specifically, students are expected to successfully participate in lectures, laboratories and projects using a portable computer (laptop/notebook) with a substantial hardware configuration.
+The recommended configuration is as follows:
+Processor:
+Intel 11th Gen or newer, Core i3 / i5 /i7 or Ultra 3 / 5 /7
+Or
+AMD 5000 Series or newer, Rzyen 3 / 5 /7
+Random Access Memory (RAM):
+16GB or greater
+Storage:
+SSD (Solid State Drive) 256GB or greater
+Wireless Card:
+802.11 n/ac/ax capability
+Recommended Operating Systems:
+Windows 11
+Later Version of MAC OS should also be fine.
+Chromebook’s are not recommended.
+It is the responsibility of the student to ensure their computer is functioning correctly and that they have full administrator rights. NCI cannot provide support for these personal devices.
+Student Laptop Loan Scheme
+A
+Laptop Loan Scheme
+is available for eligible students to assist them in completing their chosen course.
+Indicative Schedule
+Students need to be available 09.00 - 18.00 Mon – Fri (class days and times vary).
+Please note that in some instances exams may take place in the daytime, evening, and/or at weekends.
+Course Delivery
+On-campus face-to-face classes.
+Duration
+This course runs over 1 year; 3 semesters with an internship/research practicum.
+Course Fee
+€7,000 total fee
+(EU/Ireland applicants, fees revised annually)
+You can spread the cost of this course with a
+direct debit plan
+.
+NCI Scholarships
+We offer a range of scholarships and discounts for both NCI and non-NCI graduates. Current NCI students and alumni can avail of a 25% discount on this course by applying for our Master's Edge Scholarship.
+View our full list of
+scholarships
+.
+International Students' Fees
+The course fee for international students is €17,000. Fees will be revised annually.
+For more information on international fees, please visit
+International Fees & Funding
+and
+International Scholarships
+. Learn more about studying at NCI as an
+international student
+.
+Student Profile

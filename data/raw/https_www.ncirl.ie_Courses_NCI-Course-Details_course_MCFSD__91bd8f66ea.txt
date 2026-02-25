@@ -1,0 +1,75 @@
+Fundamentals of Software Development
+Course Instance ID:
+898047285
+Description:
+Fundamentals of Software Development
+Duration:
+12 weeks
+NFQ Level:
+Level 8
+Brochure:
+Download Fundamentals of Software Development brochure
+Learn to create software applications and gain a great foundation in the computing industry. 
+  This short 12-week course can add to your skills and be a stepping stone to further study.
+Course details
+About this Course
+The aim of this short course is to provide learners with the knowledge, skills, and competence to create software applications. This can be especially beneficial as numerous reports such as Ireland’s National Skills Strategy 2025 point to the need for people with skills in these areas. By combining technical skills with problem solving techniques this course gives the student an excellent foundation and effectively delivers core technology skills in programming.
+The course gives learners the fundamental knowledge needed to enter into the computing industry, or to progress on to further higher education courses. This course is designed with flexibility in mind, allowing learners to work through bespoke video content and guided tutorials during the week, with a live online practical class on one evening following the videobased material and exercises. Self-paced content is broken into small manageable chunks, and live sessions are designed for live questions and answers based around industry issues and practical problems.
+Who is the course for?
+This short course will appeal to those who 
+are new to computing, or those that need 
+a refresher in modern programming skills. 
+This course will be of benefit to those 
+working in the ICT sector who may not 
+have programming experience such as 
+managers/project leads/project managers 
+who wish to be able to understand 
+  applications at a more technical level.
+Course Content
+The course will give you programming skills and knowledge. The core module focuses on programming and problem solving in Java Programming. Students will learn relevant skills sought by industry such as:
+Java
+Object oriented programming
+Problem-solving techniques
+Algorithm design
+Version control
+For more information on the modules taught on this course view our
+module descriptors
+.
+Assessment
+The programme will be assessed with a blend of 20% project work, 30% continuous assessment and 50% exams.
+Please note that in some instances, exams may take place in the daytime, evening, and/or at weekends.
+Indicative Schedule
+One evening of live online lectures per week from 18.00 – 21.00.
+There will also be one hour of self-paced learning per week on NCI’s Learning Platform, consisting of recorded content and materials which you can access at a time that suits you.
+Entry Requirements
+A non-cognate level 8 degree in any discipline. The college operates a Recognition of Prior Experiential Learning (RPEL) scheme meaning applicants who do not meet the normal academic requirements may be considered based on relevant work and other experience. Applicants lacking evidence of an appropriate prior mathematical learning may be required to complete a mathematical assessment.
+Non-English-speaking applicants must demonstrate fluency in English evidenced by an IELTS academic score of at least 6.0 or equivalent , please note the
+English language entry requirements
+.
+Laptop Requirements
+National College of Ireland has implemented a Bring Your Own Device policy for all courses. Specifically, students are expected to successfully participate in lectures, laboratories and projects using a portable computer (laptop/notebook) with a substantial hardware configuration.
+The recommended configuration is as follows:
+Processor:
+Intel 11th Gen or newer, Core i3 / i5 /i7 or Ultra 3 / 5 /7
+Or
+AMD 5000 Series or newer, Rzyen 3 / 5 /7
+Random Access Memory (RAM):
+16GB or greater
+Storage:
+SSD (Solid State Drive) 256GB or greater
+Wireless Card:
+802.11 n/ac/ax capability
+Recommended Operating Systems:
+Windows 11
+Later Version of MAC OS should also be fine.
+Chromebook’s are not recommended.
+It is the responsibility of the student to ensure their computer is functioning correctly and that they have full administrator rights. NCI cannot provide support for these personal devices.
+Student Laptop Loan Scheme
+A
+Laptop Loan Scheme
+is available for eligible students to assist them in completing their chosen course.
+Duration
+12 weeks
+Fees
+€500
+Student Profile

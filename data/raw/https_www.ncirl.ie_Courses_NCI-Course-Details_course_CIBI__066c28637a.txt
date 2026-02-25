@@ -1,0 +1,61 @@
+Certificate in Business Intelligence
+Course Instance ID:
+910716326
+Description:
+Certificate in Business Intelligence
+Duration:
+6 weeks
+NFQ Level:
+Level 9
+Brochure:
+Download Certificate in Business Intelligence brochure
+All organisations have access to a wide variety and depth of data. This short programme will guide students to shape and use this data to make more informed management decisions. Students will learn to understand data and data governance, gaining the capacity to use quantitative methods and analytics to make more data-informed decisions. The course is ideal for managers interested in the basics of data analytics, how to work with data analytics specialists and how to frame business problems in such a way to arrive at informed decisions efficiently.
+This course is subject to QQI validation.
+Course details
+Course Content
+Big data – What it is, the challenges and opportunities
+Framing the business problem
+Data governance
+Data analytics
+Making decisions with data
+Ethical and organisational issues
+For more information on the modules taught on this course view our
+module descriptors
+.
+Award
+These certificates are awarded by QQI at level 9 (5 ECTS) on the National Framework of Qualifications.
+Entry Requirements
+Applicants are required to hold a minimum of a 2.2 honours degree in either a cognate or non-cognate area at level 8 on the National Framework of Qualifications.
+The college operates a
+Recognition of Prior Experiential Learning (RPEL)
+scheme meaning non-graduates with extensive professional experience and other prior qualifications may also be considered for the course.
+Laptop Requirements
+National College of Ireland has implemented a Bring Your Own Device policy for all courses. Specifically, students are expected to successfully participate in lectures, laboratories and projects using a portable computer (laptop/notebook) with a substantial hardware configuration.
+The recommended configuration is as follows:
+Processor:
+Intel 11th generation processors or newer (Core i-3, ii-5, -7,i-9-7x)
+or AMD 7000 Series or newer (Rzyen 3 / 5 / 7)
+Random Access Memory (RAM):
+16GB or greater
+Storage:
+Solid State Drive (SSD) 256GB or greater
+Wireless Card:
+802.11 n/ac/ax capability
+Recommended Operating Systems:
+Windows 11 (Non S Mode Skew)
+Please note alternative Operating Systems such as MAC and Linux are an option, but you may run into issues with compatibility as we are primarily a Windows based environment.
+Chromebook’s are not recommended.
+It is the responsibility of the student to ensure their computer is functioning correctly and that they have full administrator rights. NCI cannot provide support for these personal devices.
+Student Laptop Loan Scheme
+A
+Laptop Loan Scheme
+is available for eligible students to assist them in completing their chosen course.
+Course Delivery
+Blended delivery: online delivery with one in-person half day introductory session.
+Please note that exams can be scheduled during the morning, afternoon or evening Monday to Saturday.
+Duration
+30 hours contact time: 6 hours per week over 5 weeks.
+Course Fee
+€950
+(Fees revised annually)
+Student Profile

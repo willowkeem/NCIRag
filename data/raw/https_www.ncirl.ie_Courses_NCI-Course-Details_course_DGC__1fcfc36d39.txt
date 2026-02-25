@@ -1,0 +1,83 @@
+Data Governance and Cybersecurity
+Course Instance ID:
+898083062
+Description:
+Data Governance and Cybersecurity
+Duration:
+12 weeks
+NFQ Level:
+Level 8
+Brochure:
+Download Data Governance and Cybersecurity brochure
+The aim of the Data Governance and Cybersecurity micro-credential programme is to provide students with the knowledge, skills, and competence around security and data governance. The programme provides learners with data management and cyber skills to understand the current cyber landscape, identify common threats to data assets, and plan appropriate measures and controls to safeguard data assets. The Data Governance and Cybersecurity micro-credential programme aims to give learners a systematic understanding of key aspects and activities of the data lifecycle management including data classification, data quality, and data risk management. Finally, the programme will also introduce the learner to the regulatory frameworks surrounding financial technology and foundational activities such as security, data protection, and compliance.
+The Data Governance and Cybersecurity micro-credential programme aims to develop professionals that comprehend foundational elements of Fintech in conjunction with the security risks, security measures, and information practices needed for the successful implementation of solutions to real-world problems.
+This programme is funded by IFS Skillnet, see the fees tab below for further information on the discount available for member companies.
+Course details
+Who is the course for?
+This micro-credential programme could be considered as a ‘taster course’ for those that might wish to consider retraining or pursuing a career in fintech, cybersecurity, data management or exploring further study opportunities within NCI or elsewhere.
+The course will appeal to graduates of finance, computing, and business seeking to gain a solid understanding of and potentially enter the area of Fintech. This programme would also be relevant for technical staff working within companies to enhance their ability to work with and understand their colleagues in IT security teams. It also would enable those in non-technical roles to apply for opportunities in technical departments in their workplace.
+Award and Progression
+The Data Governance and Cybersecurity micro-credential programme is awarded by QQI at level 8 (10 Credits) on the National Framework of Qualifications. Students may choose to continue with further study within NCI following completion of this micro-credential by applying to transfer onto the Higher Diploma in Science in Fintech, which includes this micro-credential as a core module. The credits and learning gained on the successful completion of this micro-credential will be recognised as part of NCI’s advanced standing arrangements.
+Entry Requirements
+A non-cognate level 8 degree in any discipline. The college operates a
+Recognition of Prior Experiential Learning (RPEL)
+scheme meaning applicants who do not meet the normal academic requirements may be considered based on relevant work and other experience. Applicants lacking evidence of an appropriate prior mathematical learning may be required to complete a mathematical assessment.
+Non-English-speaking applicants must demonstrate fluency in English evidenced by an IELTS academic score of at least 6.0 or equivalent , please note the
+English language entry requirements
+..
+Laptop Requirements
+National College of Ireland has implemented a Bring Your Own Device policy for all courses. Specifically, students are expected to successfully participate in lectures, laboratories and projects using a portable computer (laptop/notebook) with a substantial hardware configuration.
+The recommended configuration is as follows:
+Processor:
+Intel 11th Gen or newer, Core i3 / i5 /i7 or Ultra 3 / 5 /7
+Or
+AMD 5000 Series or newer, Rzyen 3 / 5 /7
+Random Access Memory (RAM):
+16GB or greater
+Storage:
+SSD (Solid State Drive) 256GB or greater
+Wireless Card:
+802.11 n/ac/ax capability
+Recommended Operating Systems:
+Windows 11
+Later Version of MAC OS should also be fine.
+Chromebook’s are not recommended.
+It is the responsibility of the student to ensure their computer is functioning correctly and that they have full administrator rights. NCI cannot provide support for these personal devices.
+Student Laptop Loan Scheme
+A
+Laptop Loan Scheme
+is available for eligible students to assist them in completing their chosen course.
+Assessment
+The programme will be assessed with a blend of 50% continuous assessment and 50% exams.
+Please note that in some instances, exams may take place in the daytime, evening, and/or at weekends.
+Course Content
+As a graduate of this programme, you will be able to:
+Illustrate the key data lifecycle stages and reliance on these for effective information governance in real-world settings.
+Explain in detail a broad range of core policy and legal aspects in data governance and compliance for financial applications.
+Describe the requirements to ensure confidentiality, integrity and availability of information and systems.
+Debate the key concepts of risk management and information technology resilience.
+Describe the key threats to information systems and data processing services.
+The following is an indicative list of key course topics:
+Cybersecurity Concepts
+Threats to Information & Data Processing Services
+Security Governance
+Data Governance
+Data Governance Dimensions
+Risk Assessment & Risk Management
+Legal Aspects
+Ethical Issues Pertaining to Data
+For more information on the modules taught on this course view our
+module descriptors
+.
+Indicative Schedule
+One evening of live online lectures per week from 18.00 – 20.00.
+There will also be two hours self-paced learning per week on NCI’s Learning Platform, consisting of recorded content and materials which you can access at a time that suits you.
+Duration
+12 weeks
+Fees
+€695
+(€500 for IFS Skillnet Members)
+This programme is funded by IFS Skillnet. Applicants from member organisations can apply and avail of a member rate of €500. For details see
+www.ifsskillnet.ie
+to check if your organisation is a member or to apply for membership.
+Student Profile

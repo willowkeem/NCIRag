@@ -1,0 +1,134 @@
+Higher Diploma in Science in Data Analytics
+Course Instance ID:
+489129680
+Description:
+Higher Diploma in Science in Data Analytics
+Duration:
+1 year
+NFQ Level:
+Level 8
+Brochure:
+Download Higher Diploma in Science in Data Analytics brochure
+The overall goal of the Higher Diploma in Science in Data Analytics is to provide you a broad combination of themes around data analytics that creates valuable insight and professional expertise.
+The programme has been designed and developed with industry experts to ensure that graduates develop core theoretical and practical skills in specialist areas such as Statistics, Business Intelligence, Data Governance, Databases, Programming and Machine Learning. This course will equip you to enter the world of data and business analytics.
+This programme is offered at both full-time and part-time deliveries, with each running for 3 semesters over 1 calendar year.
+Course Fees:
+If your fees are being paid by your company, you will need to complete an
+Employer Sponsorship
+form and return it to the Fees Office. NCI has a
+Direct Debit Plan
+that allows students to pay 20% of the fees upfront and the remainder in equal instalments.
+Springboard+ is co-funded by the Government of Ireland and the European Union. For more information about EU Funds please visit
+www.EUFunds.ie
+.
+Course details
+Springboard+
+This course is offered under
+Springboard+
+meaning you can join this course for free if you are currently unemployed or for a reduced cost of €595 if you are employed.
+Visit the Springboard+ website to apply:
+Higher Diploma in Science in Data Analytics -
+Springboard+ applications for this programme have now closed.
+Visit the Springboard+ website for information on
+eligibility criteria
+.
+Course Description
+This programme seeks to produce graduates who are able to provide insight, gain value and discover knowledge (at an organisational, societal, or personal level) from data through exercising the skills that are developed through the programmes.
+Upon completion of this course, graduates will be able to:
+Develop statistical skills to carry out effective data analyses using descriptive and inferential statistics within a business context.
+Conduct substantial and extensive independent research and analysis in the field of Data Analytics.
+Formulate and implement a novel research idea using the latest industry practices.
+Demonstrate expert knowledge and a critical understanding of data analysis, statistics, and the tools, techniques and technologies of Data Analytics utilised in both technical and business contexts.
+Critically assess, evaluate and communicate business technical strategies for Data Analytics.
+Formulate, design, assess, and implement effective business technical solutions for Data Analytics.
+Critically assess and evaluate security, privacy, sustainability, and ethical issues associated with the storage, transfer, and processing of data for analytical purposes.
+The course will be delivered using academic research, industry-defined practical problems, and case studies. This approach will naturally foster a deeper knowledge of the subject area and create transferable skills for work such as critical thinking, problem-solving, creative thinking, communication, teamwork, and research skills. The course is completely delivered by faculty and industry practitioners with proven expertise in data analytics.
+Who is the course for?
+This course will appeal to non-technical professionals and college graduates from non-technical disciplines who wish to upgrade their skills or simply advance their career in the domain of Data Analytics. The programme is particularly suitable for those with numeracy and analytical skills. You do not need to have previously studied programming.
+However, given the content and the timeframe you will need to have a strong commitment to the course and willingness to fully engage with the technical content.
+Career Prospects
+Graduates from the previous 2 - 3 years leveraged the course to enhance their skills or secure positions such as Statistics Analyst (Central Bank of Ireland), Business Analyst (Commission for Communications Regulation), Data Scientist (Pfizer), Quality Analyst (Tik Tok), Digital Client Support (Citi), Senior Technologist (Enterprise Ireland), Data Analyst (VHI).
+Employers who recruited graduates from the 2023 cohort of the Higher Diploma in Data Analytics include: Data Quality Analyst (Tik Tok), Credit Portfolio Manager (Google), Data Operations Analyst (TD Securities), QA Analyst (SEB Life International), Fund and Data Platform Analyst (Legal and General Investment Management), Technical Lead (IMGS), Data Analyst (Glovo).
+Entry Requirements
+Applicants holding an honours degree (level 8 or equivalent) in any discipline are eligible for direct access to the programme. In addition, applicants with level 7 degree in a cognate area (e.g. Computer Science/IT, Engineering, Mathematics, Physics, Information Systems, Accounting) are also considered for direct access into the programme
+Typically, holders of more technical and numerate degrees or candidates that are able to demonstrate technical or mathematical problem-solving skills are likely to gain a higher ranking in the selection for the course.
+Non-English-speaking applicants must demonstrate fluency in English evidenced by an IELTS academic score of at least 6.0 or equivalent. Visit our
+English Language Requirements
+page for further information.
+For other non-standard applications, the College operates a
+Recognition of Prior Experiential Learning (RPEL)
+scheme meaning applicants who do not meet the normal academic requirements may be considered based on extensive relevant work and other experience. This may be assessed through a portfolio of learning, demonstration of work produced, interview and assessment (e.g. logic test).
+Laptop Requirements
+National College of Ireland has implemented a Bring Your Own Device policy for all courses. Specifically, students are expected to successfully participate in lectures, laboratories and projects using a portable computer (laptop/notebook) with a substantial hardware configuration.
+The recommended configuration is as follows:
+Processor:
+Intel 11th Gen or newer, Core i3 / i5 /i7 or Ultra 3 / 5 /7
+Or
+AMD 5000 Series or newer, Rzyen 3 / 5 /7
+Random Access Memory (RAM):
+16GB or greater
+Storage:
+SSD (Solid State Drive) 256GB or greater
+Wireless Card:
+802.11 n/ac/ax capability
+Recommended Operating Systems:
+Windows 11
+Later Version of MAC OS should also be fine.
+Chromebook’s are not recommended.
+It is the responsibility of the student to ensure their computer is functioning correctly and that they have full administrator rights. NCI cannot provide support for these personal devices.
+Student Laptop Loan Scheme
+A
+Laptop Loan Scheme
+is available for eligible students to assist them in completing their chosen course.
+Award and Progression
+The Higher Diploma in Science in Data Analytics is awarded by QQI at level 8 on the National Framework of Qualifications.Students who successfully complete this course may progress to a major award at level 9 such as the Masters of Science in Data Analytics.
+Course Content
+Course Modules
+Statistics I
+Programming for Data Analytics
+Data Governance
+Statistics II
+Databases for Analytics
+Business Intelligence
+Machine Learning
+Project
+For information on the modules taught on this course view our
+module descriptors
+.
+Careers Advisors will proactively support you in finding relevant employment during the course or within 3 months following completion of the course.
+Assessment
+The course will be assessed with a blend of continuous assessments and/or project work and exams. This varies between modules but typically assessment is split 60:40 between exams and continuous assessment.
+Please note that in some instances exams may take place in the daytime and at weekends.
+Course Delivery
+Full-time Schedule
+Campus: Classes will take place face-to-face on campus.
+Part-time Schedule
+Blended - Livestream with some on-campus stream classes, scheduled in advance.
+Indicative Schedule
+Part-Time Option - Springboard+
+Tuesday and Thursday 18.00 - 22.00
+There will also be on average four hours self-paced learning per week on NCI’s Learning Platform weekly. This will not appear on your timetable.
+Full-Time Option -
+Fee Paying (International)
+Students need to be available 09.00-18.00 Mon – Fri. (Class days and times can vary)
+Career Bridge classes will be delivered one day per week in Semester one from 17.00 to 18.00. Day to be confirmed
+Please note that exams can be scheduled during the morning, afternoon or evening Monday to Saturday.
+Duration
+Part-Time Option - Springboard+
+3 semesters delivered over 1 year
+Full-Time Option -
+Fee Paying (International)
+3 semesters delivered over 1 year
+Course Fee
+Springboard+ Student Fees
+A student contribution fee of €595 is applicable if you are in employment. No fees applicable if you are unemployed. The scheme does not cover any allowance for books and materials. See the Springboard+ tab above for further information.
+If a student contribution fee is applicable this must be paid in full no later than 14th November 2025.
+Non-Springboard+ Student Fees
+€4,900
+(Fees revised annually)
+You can spread the cost of this course with a
+direct debit plan
+or complete an
+Employer Sponsorship
+form if your fees are being paid by your company.
+Student Profile

@@ -1,0 +1,123 @@
+Higher Diploma in Science in Computing (Artificial Intelligence/Machine Learning)
+Course Instance ID:
+666666666
+Description:
+Higher Diploma in Science in Computing (Artificial Intelligence/Machine Learning)
+Duration:
+1 year
+NFQ Level:
+Level 8
+Brochure:
+Download Higher Diploma in Science in Computing (Artificial Intelligence/Machine Learning) brochure
+The course teaches students the computing fundamentals, complemented with detailed knowledge, problem-solving and specialised technical skills required for analysing, designing and developing technical software solutions. The second semester consists of a focused set of modules that are specific to the Artificial Intelligence and Machine Learning specialisation. The course aims to impart awareness and appreciation of relevant topics in the area of specialisation.
+The Artificial Intelligence and Machine Learning stream provides learners an understanding and application development of AI-powered products by leveraging expertise in machine learning and computational methods.
+Course Fees:
+If your fees are being paid by your company, you will need to complete an
+Employer Sponsorship
+form and return it to the Fees Office. NCI has a
+Direct Debit Plan
+that allows students to pay 20% of the fees upfront and the remainder in equal instalments.
+Springboard+ is co-funded by the Government of Ireland and the European Union. For more information about EU Funds please visit
+www.EUFunds.ie
+.
+Course details
+Springboard+
+This course is offered under
+Springboard+
+meaning you can join this course for free if you are currently unemployed or for a reduced cost of €595 if you are employed.
+Visit the Springboard+ website to apply:
+Higher Diploma in Science in Computing (Artificial Intelligence/Machine Learning) -
+Springboard+ applications for this programme have now closed.
+Visit the Springboard+ website for information on
+eligibility criteria
+.
+Who is the course for?
+This course will appeal to graduates with a level 8 degree from different backgrounds who would wish to change their non-ICT qualification into the computer science field through a level 
+8 award in computing. Nonetheless, it is noted that the course is technical in nature and will entail a significant amount of independent study. Given the content and the timescale you will need to have a strong commitment to the course and a willingness to fully engage with the technical content.
+Award and Progression
+The Higher Diploma in Science in Computing is awarded by QQI at level 8 on the National Framework of Qualifications (NFQ). Students who successfully complete this course may be eligible to progress to a major award at level 9 on the NFQ.
+As graduates from other disciplines and with work experience, learners will have life skills and experiences that they will bring with them on the programme and into a new subject domain. Therefore, they are eligible for a number of roles. They could work in positions that are in-line with their skills but in the lCT sector, or apply lCT knowledge gained through this programme to their current role.
+Career Prospects
+This course is designed to meet the needs of the IT sector and secure future employment for graduates. Over the past two years, the companies have hired graduates from the Higher Diploma in Science in Computing include: Accenture (Junior Software Engineer), Deloitte (IT Engineer), Mastercard (Software Tester), Guidewire (Java Application Support Engineer), General Motors (Software Development Apprentice), DocuSign (Associate Solutions Consultant).
+Entry Requirements
+A level 8 degree or its equivalent in a non-cognate discipline. Non-standard applications will be also considered on an individual basis.
+For applicants whose first language is not English, please note the
+English language entry requirements
+. Non-English-speaking applicants must demonstrate fluency in English evidenced by an IELTS academic score of at least 6.0 or equivalent.
+The college operates a
+Recognition of Prior Experiential Learning (RPEL) scheme
+meaning applicants who do not meet the normal academic requirements may be considered based on extensive relevant work and other experience. This may be assessed through a portfolio of learning, demonstration of work produced, interview and assessment.
+Laptop Requirements
+National College of Ireland has implemented a Bring Your Own Device policy for all courses. Specifically, students are expected to successfully participate in lectures, laboratories and projects using a portable computer (laptop/notebook) with a substantial hardware configuration.
+The recommended configuration is as follows:
+Processor:
+Intel 11th Gen or newer, Core i3 / i5 /i7 or Ultra 3 / 5 /7
+Or
+AMD 5000 Series or newer, Rzyen 3 / 5 /7
+Random Access Memory (RAM):
+16GB or greater
+Storage:
+SSD (Solid State Drive) 256GB or greater
+Wireless Card:
+802.11 n/ac/ax capability
+Recommended Operating Systems:
+Windows 11
+Later Version of MAC OS should also be fine.
+Chromebook’s are not recommended.
+It is the responsibility of the student to ensure their computer is functioning correctly and that they have full administrator rights. NCI cannot provide support for these personal devices.
+Student Laptop Loan Scheme
+A
+Laptop Loan Scheme
+is available for eligible students to assist them in completing their chosen course.
+Course Content
+Semester 1
+Software Development
+Object Oriented Software Engineering
+Introduction to Databases
+Web Design and Client Side Scripting
+Career Bridge
+Semester 2
+Computer Architecture Operating Systems and Networks
+Artificial Intelligence
+Machine Learning Fundamentals
+Statistics
+Semester 3
+Project
+Your Careers Advisor will support you in identifying relevant employment during the course or within three months following completion of the course.
+Note:
+Prospective students are required to specify the specialisation they would like to follow when they apply for a place within the Higher Diploma in Science in Computing programme..
+For information on the modules taught on this course view our
+module descriptors
+.
+Course Delivery
+This is an online learning course that features Directed E-Learning activities such as live online classroom sessions and tutorials/ videos on the College’s e-learning system. This allows for online class time to be interactive, practical, and focused, with theorybased content being covered outside of class time with self-paced tutorials/videos, and practical content being covered in live online classes with support from lecturers.
+Indicative Schedule
+Tuesday and Thursday 18.00 - 22.00.
+There will also be on average five hours self-paced learning per week on NCI’s Learning Platform weekly. This will not appear on your timetable.
+Career Bridge classes will be delivered one day per week in Semester 1 from 17.00 to 18.00. Day to be confirmed.
+Assessment
+The course will be assessed with a blend of continuous assessments and/or project work and exams. Please note that in some instances exams may take place in the daytime, evenings and at weekends.
+Duration
+3 semesters delivered over 1 calendar year - September to December 2025, January to May 2026 and May to August 2026.
+Course Fee
+Springboard+ Student Fees
+A student contribution fee of €595 is applicable if you are in employment. No fees applicable if you are unemployed. The scheme does not cover any allowance for books and materials. See the Springboard+ tab above for further information.
+If a student contribution fee is applicable this must be paid in full no later than 14th November 2025.
+Non-Springboard+ Student Fees
+€4,900
+(Fees revised annually)
+You can spread the cost of this course with a
+direct debit plan
+or complete an
+Employer Sponsorship
+form if your fees are being paid by your company.
+International Students
+International students can apply for the full-time Higher Diploma in Science in Computing
+here
+.
+Other Streams
+Other streams of the part-time Higher Diploma in Science in Computing
+(for non-international students)
+are available, see below:
+Software Development
+Student Profile

@@ -1,0 +1,183 @@
+BSc (Honours) in Data Science
+Course Instance ID:
+830319191
+Description:
+BSc (Honours) in Data Science
+Duration:
+4 years
+NFQ Level:
+Level 8
+Brochure:
+Download BSc (Honours) in Data Science brochure
+NCI’s BSc (Honours) in Data Science is practical in nature, providing you with knowledge of the way data science can solve real problems and facilitate business decisions based on evidence. Due to the shortage of suitably qualified data science professionals in Ireland and internationally, this degree offers exceptional job prospects for graduates.
+Here are
+10 big reasons why you should consider studying data science
+.
+CAO Course Code:
+NC025
+International Students
+If you are an international student interested in applying for this programme, please click on the link below:
+September 2026 - Apply Here
+Course details
+About this Course
+The course is industry-focused with options for students to gain real world experience through Service Learning, Work Placement or International Exchange (Erasmus) for work or study in the third year. NCI students are highly sought after and complete their work experience in companies such as Microsoft, Eir, AIB, Irish Life, Vodafone, Intel, Citi, SAP and Workday.
+Graduates of this course can apply data transformation, modelling, data mining and machine learning techniques to analyse and derive new knowledge and insight from data; understand how to design and implement data science algorithms and applications that solve real-world problems; can effectively visualise and communicate the results of data analysis to support business decision making; and are able to adopt appropriate professional, ethical, legal, security and privacy principles in relation to data science solutions.
+Dr. Arghir-Nicolae Moldovan, Programme Director of the BSc (Honours) in Data Science at National College of Ireland, discusses the structure of the course, the benefits of studying data science, the employment opportunities the course offers along with the support the college provides for our students in the
+video
+below.
+CAO Open Day Events
+Join us at one of our CAO Open Day events for Leaving Certificate students where you will be able to chat with our lecturers and talk to students about their course experiences.
+Wednesday, May 13th 2026 - Register Here
+Saturday, June 27th 2026 - Register Here
+Course Content
+Year 1
+Semester 1
+Computational Thinking
+Discrete Mathematics
+Programming Concepts
+Introduction to Data Science & Artificial Intelligence
+Web Design & Development
+Semester 2
+Computer Architecture
+Introduction to Data Modelling & Databases
+The Computing Industry
+Introduction to Programming
+Operating Systems
+Year 2
+Semester 1
+Advanced Databases
+Object Oriented Programming
+Data Programming
+Web Application Development
+Statistics I
+Semester 2
+Innovation & Business Entrepreneurship
+Data Mining & Machine Learning
+Data Visualisation
+Linear Algebra
+Statistics II
+Year 3
+Semester 1
+Artificial Intelligence
+Advanced Machine Learning
+Data Architecture
+Data Warehousing & Business Intelligence
+Scalable Data Analytics
+Semester 2
+Students will choose one of the following options:
+Work Placement
+Academic Internship
+Service Learning
+International Exchange
+Year 4
+Semester 1
+Final Year Project
+Governance, Ethics, Security & Sustainability
+Neural Networks & Prescriptive Analytics
+Text Analytics & Natural Language Processing
+Semester 2
+Final Year Project
+Applied Deep Learning
+IoT Real Time Analytics
+Time Series & Financial Analytics
+Electives may include prerequisites, are subject to change, and availability is subject to class sizes.
+For information on the modules taught on this course view our
+module descriptors
+.
+Who is the course for?
+This course will appeal to students who are interested in developing computing and numeracy skills and pursue a career in data science.
+The course is for school leavers, mature students, and graduates of QQI level 5/6 programmes who wish to embark on a course of full-time study.
+Course Structure and Award
+This four-year undergraduate course is run over eight semesters with continuous assessment held throughout and examinations at the end of each semester. On completion you will receive a QQI BSc (Honours) Degree in Data Science at level 8 on the National Framework of Qualifications. The course also prepares students for industry recognised certification in leading technologies.
+Work Experience
+The course is industry focused with a six-month work placement in the third year, which will significantly improve your skills and enhance your employability.
+NCI students are highly sought after and complete their work experience in companies like Microsoft, Eir, AIB, Irish Life, Vodafone, Intel, Citi, SAP and Workday.
+Career Prospects
+Graduates from the BSc (Honours) in Data Science go on to work with a variety of organisations including multinationals, financial services and professional services companies. Related data science roles include data scientist, business intelligence analyst, customer insight lead, risk analyst, knowledge engineer, and data programmer.
+According to a
+Higher Education Outcomes Report
+released by the CSO, ICT graduates in 2010 had the highest median earnings 10 years after graduation compared to other sectors based on the analysis of the destinations of students who graduated between 2010 and 2019
+Further Study Options
+Upon successful completion of the BSc (Honours) in Data Science, graduates can progress to postgraduate courses in computing at level 9 on the National Framework of Qualifications such as the
+MSc in Data Analytics
+,
+MSc in Cybersecurity
+,
+MSc in Cloud Computing
+,
+MSc in Fintech
+or the
+MSc in Artificial Intelligence
+at National College of Ireland.
+CAO Points
+2025 CAO Points Guide :* 260
+*For each course we have given a guideline based on our points over the past 3 years. This is a guide only, points vary each year.
+The CAO course code is NC025.
+Minimum Entry Requirements
+Minimum entry requirements are a grade H5 or above in two higher level subjects together with a minimum of O6/H7 in four other subjects. A minimum of grade O4/H7 must be obtained in Mathematics. A minimum of grade O6/H7 must be obtained in English or Irish. Applicants who have successfully completed the QQI Level 6 Software Development (6M0691) course may be eligible for advanced entry to year 2 of this programme.
+For applicants whose first language is not English, please note the
+English language entry requirements
+.
+For international students, please visit NCI's
+Your Country
+section to view the specific entry requirements for your region.
+Mature applicants
+, applicants with a disability or those apply through the
+DARE
+or
+HEAR
+access schemes can find out more information on the
+application process
+.
+Applicants from a PLC/further education course must meet the CAO points requirement, have a full level 5/6 award, and achieve one distinction. The distinction must be held in one of the following modules: B20029 or C20139 or C20174 or C20175 or N33029 or 4N2138 or 5N0554 or 5N0556 or 5N16654 or 5N1833 or 5N18396 or 5N2066 or 6N3395 (or O4/H7 in LC Mathematics). Visit our
+QQI Applicants page
+for further information.
+Please note that exams can be scheduled during the morning, afternoon or evening Monday to Saturday.
+Laptop Requirements
+National College of Ireland has implemented a Bring Your Own Device policy for all courses. Specifically, students are expected to successfully participate in lectures, laboratories and projects using a portable computer (laptop/notebook) with a substantial hardware configuration.
+The recommended configuration is as follows:
+Processor:
+Intel 11th Gen or newer, Core i3 / i5 /i7 or Ultra 3 / 5 /7
+Or
+AMD 5000 Series or newer, Rzyen 3 / 5 /7
+Random Access Memory (RAM):
+16GB or greater
+Storage:
+SSD (Solid State Drive) 256GB or greater
+Wireless Card:
+802.11 n/ac/ax capability
+Recommended Operating Systems:
+Windows 11
+Later Version of MAC OS should also be fine.
+Chromebook’s are not recommended.
+It is the responsibility of the student to ensure their computer is functioning correctly and that they have full administrator rights. NCI cannot provide support for these personal devices.
+Student Laptop Loan Scheme
+A
+Laptop Loan Scheme
+is available for eligible students to assist them in completing their chosen course.
+Free Fees
+This course qualifies under the
+Free Fees Initiative
+and the
+Student Grant Scheme
+.
+Sports Scholarship
+Did you know you can apply for a
+Sports Scholarship
+at NCI?
+Watch this video
+to hear from our current sports scholars Stephen Achukwu (basketball) and Adam Leonard (football):
+International Students' Fees
+Please note that effective from September 2026, the programme fee for International students is €14,000 per year.
+For more information on international fees, please visit
+International Fees & Funding
+and
+International Scholarships
+.
+Learn more about studying at NCI as an
+international student
+.
+For domestic students applying through the CAO, this course applies under the free fees initiative. For further information, please see
+Free Fees Initiative
+.
+Student Profile
